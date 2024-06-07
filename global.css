@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-source-sans-pro: "Source Sans Pro";
+  --font-merienda-one: "Merienda One";
+  --font-playfair-display: "Playfair Display";
+  --font-sree-krushnadevaraya: "Sree Krushnadevaraya";
+  --font-bungee: Bungee;
+  --text-lg-medium: Poppins;
+  --font-inter: Inter;
+  --font-jetbrains-mono: "JetBrains Mono";
+  --font-special-elite: "Special Elite";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --text-lg-medium-size: 18px;
+  --font-size-37xl: 56px;
+  --font-size-17xl: 36px;
+  --font-size-base: 16px;
+  --font-size-xs: 12px;
+  --font-size-29xl: 48px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --primary-050: #f0fdf4;
+  --color-mintcream-100: #ecfdf5;
+  --color-darkslategray-100: #064e3b;
+  --color-honeydew-100: #dcfce7;
+  --color-honeydew-200: #d1fae5;
+  --color-seagreen: #059669;
+  --color-yellowgreen: #65a30d;
+  --color-mediumseagreen: #5cdb95;
+  --color-darkslateblue: #05386b;
+  --color-darkcyan: #379683;
+  --color-darkcyan-100: #329191;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-13xl: 32px;
+  --gap-21xl: 40px;
+  --gap-5xs: 8px;
+  --gap-xs: 12px;
+  --gap-29xl: 48px;
+  --gap-base: 16px;
+
+  /* Paddings */
+  --padding-61xl: 80px;
+  --padding-141xl: 160px;
+  --padding-base: 16px;
+  --padding-13xl: 32px;
+  --padding-21xl: 40px;
+  --padding-5xs: 8px;
+
+  /* Border radiuses */
+  --br-13xl: 32px;
+  --br-45xl: 64px;
+}
